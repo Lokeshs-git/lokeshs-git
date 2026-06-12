@@ -14,7 +14,7 @@ AI Product Lead building production agentic AI systems, RAG platforms, and LLM a
 
 Cornell M.Eng. 15+ years across PayPal, LendingTree, Microsoft, WPP, Lacework, and Farmers Business Network — data science, ML product management, and applied AI delivery.
 
-Co-lead of the Research Triangle chapter of [The AI Collective](https://aicollective.com). I write on LinkedIn, at [Unite.ai](https://www.unite.ai) and speak at conferences on RAG, evaluation, and agentic systems.
+Co-lead of the Research Triangle chapter of [The AI Collective](https://aicollective.com). I write on LinkedIn, [Unite.ai](https://www.unite.ai), HackerNoon, and speak at conferences on RAG, evaluation, and agentic systems.
 
 ## Let's connect
 
